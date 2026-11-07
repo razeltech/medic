@@ -8,7 +8,7 @@
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://razeltech.github.io/medic/banner.svg</image:loc>
-      <image:title>MEDIC — Offline-First Family Medicine Routine and Inventory Guardian</image:title>
+      <image:title>MEDIC - Offline-First Family Medicine Routine and Inventory Guardian</image:title>
     </image:image>
     <image:image>
       <image:loc>https://razeltech.github.io/medic/telemetry.svg</image:loc>
@@ -20,3 +20,4 @@
     </image:image>
   </url>
 </urlset>
+
